@@ -4,10 +4,10 @@ This website is designed to support both seniors and caregivers by providing a s
 https://drive.google.com/drive/folders/1RQH1ZLC5oEDusCRlf_PH-Pw1aqoiF6NA
 
 أسماء أعضاء الجروب
-1- آلاء خالد مغاوري عبد الهادي ( group leader )
-2- هنا يسري يوسف عبد العال
-3- إسراء سعد خليفة عبد المولي
-4- أروي عماد الدين عبد اللطيف محمد
+1- آلاء خالد مغاوري عبد الهادي (ux)
+2- هنا يسري يوسف عبد العال (ux)
+3- إسراء سعد خليفة عبد المولي (ux)
+4- أروي عماد الدين عبد اللطيف محمد (ux)
 
 أسم المحاضر
 دكتور/ إيمان عبد اللطيف
