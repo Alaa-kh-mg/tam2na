@@ -1,4 +1,6 @@
 
+
+
 # وَنِيس (Waniss)
 This website is designed to support both seniors and caregivers by providing a simple, user friendly platform that ensures daily care, safety, and peace of mind. It helps elderly users manage routines and request help easily, while offering caregivers real time monitoring and guidance .
 
@@ -12,7 +14,6 @@ https://www.figma.com/design/68aCl9FeBrhx00QnBhrHz3/%D9%88%D9%8E%D9%86%D9%90%D9%
 
 https://www.figma.com/design/68aCl9FeBrhx00QnBhrHz3/%D9%88%D9%8E%D9%86%D9%90%D9%8A%D8%B3-UI?node-id=416-1092&t=rhBl8RA7Zgl974rx-0
 
-ال Case Study
 
 
 
