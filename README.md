@@ -14,9 +14,6 @@ https://www.figma.com/design/68aCl9FeBrhx00QnBhrHz3/%D9%88%D9%8E%D9%86%D9%90%D9%
 
 https://www.figma.com/design/68aCl9FeBrhx00QnBhrHz3/%D9%88%D9%8E%D9%86%D9%90%D9%8A%D8%B3-UI?node-id=416-1092&t=rhBl8RA7Zgl974rx-0
 
-CaseStudy
-
-file:///C:/Users/original%20store/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/C97BFF03A9400D7E63BC7EC2E9C457A9DCE46AAE/transfers/2026-20/Case-study%20(1)%20(1).pdf
 
 
 
