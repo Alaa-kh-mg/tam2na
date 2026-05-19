@@ -13,7 +13,6 @@ https://www.figma.com/design/68aCl9FeBrhx00QnBhrHz3/%D9%88%D9%8E%D9%86%D9%90%D9%
 
 ال Case Study
 
-file:///D:/LOLO/UI%20UX/my%20project/Case-study.pdf
 
 
 أسماء أعضاء الجروب
